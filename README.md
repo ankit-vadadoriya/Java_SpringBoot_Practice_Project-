@@ -1,4 +1,4 @@
-# Simple Bank Application
+# 1.Bank Application
 
 A basic banking application built using Java and Spring Boot. This project demonstrates the implementation of core banking functionalities such as account management and transaction tracking. The app is designed as a learning exercise to explore the features of the Spring Boot framework.
 
